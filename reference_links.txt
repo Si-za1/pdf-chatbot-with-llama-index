@@ -1,0 +1,5 @@
+Articles:
+1. https://www.llamaindex.ai/blog/introducing-rags-your-personalized-chatgpt-experience-over-your-data-2b9d140769b1 
+2. https://docs.cloud.llamaindex.ai/llamacloud/guides/framework_integration 
+3. https://blog.streamlit.io/build-a-chatbot-with-custom-data-sources-powered-by-llamaindex/ 
+4. https://freedium.cfd/https://medium.com/llamaindex-blog/introducing-llamacloud-and-llamaparse-af8cedf9006b 
